@@ -1,0 +1,46 @@
+{
+    "version": "1.00",
+    "stationid": "1",
+    "sensor1": [
+        {
+            "name": "n/a6",
+            "sn": "n/a",
+            "calibration": "n/a"
+        }
+    ],
+    "sensor2": [
+        {
+            "name": "k30",
+            "sn": "0314ca5e",
+            "calibration": "20170831"
+        }
+    ],
+    "sensor3": [
+        {
+           "name": "opcn2",
+           "sn": "176430712",
+           "calibration": "20170831"
+        }
+    ],
+    "sensor4":[ 
+        {
+            "name": "bme280",
+            "sn": "e336755",
+            "calibration": "20170731"
+        }
+    ],
+    "sensor5": [
+        {
+            "name": "n/a",
+            "sn": "n/a",
+            "calibration": "n/a"
+        }
+    ],
+    "sensor6": [
+        {
+            "name": "n/a",
+            "sn": "n/a",
+            "calibration": "n/a"
+        }
+    ]
+}
